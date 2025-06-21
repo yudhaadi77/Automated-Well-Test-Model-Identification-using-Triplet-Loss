@@ -58,6 +58,11 @@ To support engineers in well test interpretation by enabling faster and more con
 
 - Nukala, S. T., et al. (2024). Enhancing Pressure Transient Analysis with Automatic Model Identification: A Machine Learning Approach. SPE-218836-MS. DOI: 10.2118/218836-MS
 - Yan, R. (2023). Well Test Model Identification using Deep Similarity Learning. Undergraduate Thesis, Institut Teknologi Bandung.
+
+## 👥 Contributors
+- Yudha (yudhaadiputra26@gmail.com)
+- Sherly
+- Arvin
   
 ## 🚀 Example: Predicting Similar Images
 
